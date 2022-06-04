@@ -1,1 +1,0 @@
-{"version":3,"sources":["NativeSafeAreaContext.d.ts"],"names":["module"],"mappings":"AAQA,MAAMA,MAAN;AAEA,eAAeA,MAAf","sourcesContent":["import type { Metrics } from '../SafeArea.types';\n\nexport interface Spec {\n  getConstants(): {\n    initialWindowMetrics: Metrics | null | undefined;\n  };\n}\n\nconst module: Spec | null | undefined;\n\nexport default module;\n"]}

@@ -1,0 +1,37 @@
+{
+  "name": "@react-native-community/cli-server-api",
+  "version": "7.0.3",
+  "license": "MIT",
+  "main": "build/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@react-native-community/cli-debugger-ui": "^7.0.3",
+    "@react-native-community/cli-tools": "^6.2.0",
+    "compression": "^1.7.1",
+    "connect": "^3.6.5",
+    "errorhandler": "^1.5.0",
+    "nocache": "^2.1.0",
+    "pretty-format": "^26.6.2",
+    "serve-static": "^1.13.1",
+    "ws": "^7.5.1"
+  },
+  "devDependencies": {
+    "@types/compression": "^1.0.1",
+    "@types/connect": "^3.4.33",
+    "@types/errorhandler": "^0.0.32",
+    "@types/ws": "^7.4.7"
+  },
+  "files": [
+    "build",
+    "!*.map"
+  ],
+  "homepage": "https://github.com/react-native-community/cli/tree/master/packages/cli-server-api",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/react-native-community/cli.git",
+    "directory": "packages/cli-server-api"
+  },
+  "gitHead": "f576135318470b1dc621fe26fe64ec1249637fa1"
+}

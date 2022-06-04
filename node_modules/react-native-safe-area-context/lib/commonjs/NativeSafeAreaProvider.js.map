@@ -1,0 +1,1 @@
+{"version":3,"sources":["NativeSafeAreaProvider.tsx"],"names":[],"mappings":";;;;;;;;;;;;AAAA","sourcesContent":["import NativeSafeAreaProvider from './specs/NativeSafeAreaProvider';\n\nexport { NativeSafeAreaProvider };\n"]}

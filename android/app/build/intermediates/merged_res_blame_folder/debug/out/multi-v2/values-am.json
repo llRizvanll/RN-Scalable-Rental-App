@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/rizvan/Personal/work/apps/App/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
+            "outputFile": "/Users/rizvan/Personal/work/apps/Scalable-App/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
             "map": [
                 {
                     "source": "/Users/rizvan/.gradle/caches/transforms-3/92f097da2c13c17a6cb693c16e868191/transformed/core-1.5.0/res/values-am/values-am.xml",

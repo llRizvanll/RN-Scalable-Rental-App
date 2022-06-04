@@ -20,7 +20,7 @@ export const NavigatorHook = (props: any) => {
         },
         {
             type: "sedan",
-            label: "big-trends", 
+            label: "bigbazaar-trends", 
             count: 10,
             id: 2
         },
